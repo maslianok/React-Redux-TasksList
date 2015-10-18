@@ -48,9 +48,12 @@ class Header extends Component {
     return (
       <header className={classnames({header: totalCount})}>
         <div className="toggle-all-wrapper">
-          <input className="toggle-all"
-            type="checkbox"
-            checked={checkedCount === totalCount}
+          <input type="checkbox"
+            className={classnames({
+              'toggle-all': 1,
+              hidden: !totalCount
+            })}          
+            checked={totalCount && checkedCount === totalCount}
             onChange={onToggleAll} />
         </div>
 
@@ -68,6 +71,7 @@ class Header extends Component {
 
 Header.propTypes = {
   tasks: PropTypes.array.isRequired,
+  onToggleAll: PropTypes.func.isRequired,
   onMarkAsDoneSelected: PropTypes.func.isRequired,
   onMarkAsUndoneSelected: PropTypes.func.isRequired,
   onDeleteSelected: PropTypes.func.isRequired

@@ -8,12 +8,6 @@ const initialState = [
     id: 0
   },
   {
-    text: 'Hire awesome people',
-    checked: false,
-    completed: false,
-    id: 1
-  },
-  {
     text: 'Enslave humanity',
     checked: false,
     completed: false,
@@ -65,6 +59,9 @@ export default function tasks(state = initialState, action) {
   /* GROUP ACTIONS */
   case types.TOGGLE_ALL:
     const areAllChecked = state.every(task => task.checked);
+    console.log(areAllChecked, state.map(task => Object.assign({}, task, {
+      checked: !areAllChecked
+    })));
     return state.map(task => Object.assign({}, task, {
       checked: !areAllChecked
     }));

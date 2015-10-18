@@ -1,46 +1,60 @@
 import expect from 'expect';
 import * as types from '../../constants/ActionTypes';
-import * as actions from '../../actions/todos';
+import * as actions from '../../actions/tasksList';
 
-describe('todo actions', () => {
-  it('addTodo should create ADD_TODO action', () => {
-    expect(actions.addTodo('Use Redux')).toEqual({
-      type: types.ADD_TODO,
-      text: 'Use Redux'
+describe('task actions', () => {
+  it('addTask should create ADD_TASK action', () => {
+    expect(actions.addTask('Task name')).toEqual({
+      type: types.ADD_TASK,
+      text: 'Task name'
     });
   });
 
-  it('deleteTodo should create DELETE_TODO action', () => {
-    expect(actions.deleteTodo(1)).toEqual({
-      type: types.DELETE_TODO,
+  it('deleteTask should create DELETE_TASK action', () => {
+    expect(actions.deleteTask(1)).toEqual({
+      type: types.DELETE_TASK,
       id: 1
     });
   });
 
-  it('editTodo should create EDIT_TODO action', () => {
-    expect(actions.editTodo(1, 'Use Redux everywhere')).toEqual({
-      type: types.EDIT_TODO,
+  it('editTask should create EDIT_TASK action', () => {
+    expect(actions.editTask(1, 'New task name')).toEqual({
+      type: types.EDIT_TASK,
       id: 1,
-      text: 'Use Redux everywhere'
+      text: 'New task name'
     });
   });
 
-  it('completeTodo should create COMPLETE_TODO action', () => {
-    expect(actions.completeTodo(1)).toEqual({
-      type: types.COMPLETE_TODO,
+  it('completeTask should create COMPLETE_TASK action', () => {
+    expect(actions.completeTask(1)).toEqual({
+      type: types.COMPLETE_TASK,
       id: 1
     });
   });
 
-  it('completeAll should create COMPLETE_ALL action', () => {
-    expect(actions.completeAll()).toEqual({
-      type: types.COMPLETE_ALL
+  it('checkTask should create CHECK_TASK action', () => {
+    expect(actions.checkTask(1)).toEqual({
+      type: types.CHECK_TASK,
+      id: 1
     });
   });
 
-  it('clearCompleted should create CLEAR_COMPLETED action', () => {
-    expect(actions.clearCompleted('Use Redux')).toEqual({
-      type: types.CLEAR_COMPLETED
+  it('toggleAll should create TOGGLE_ALL action', () => {
+    expect(actions.toggleAll()).toEqual({
+      type: types.TOGGLE_ALL
+    });
+  });
+
+  it('deleteSelectedTasks should create DELETE_SELECTED_TASKS action', () => {
+    expect(actions.deleteSelectedTasks()).toEqual({
+      type: types.DELETE_SELECTED_TASKS
+    });
+  });
+
+  it('completeSelectedTasks should create COMPLETE_SELECTED_TASKS action', () => {
+    expect(actions.completeSelectedTasks(true)).toEqual({
+      type: types.COMPLETE_SELECTED_TASKS,
+      markAsDone: true
     });
   });
 });
