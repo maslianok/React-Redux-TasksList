@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pro",
+				"PropTypes"
+			],
+			[
+				"fun",
+				"func"
+			],
+			[
+				"snaps",
+				"snapshotItem"
+			],
+			[
+				"pro",
+				"props	React: this.props."
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"edi",
+				"editOnClick"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"_",
+				"_onChange"
+			],
+			[
+				"view",
+				"viewMode"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"form",
+				"formStruct"
+			],
+			[
+				"fle",
+				"flex-shrink"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"time",
+				"timer〔variable〕"
+			],
+			[
+				"clea",
+				"clearTimeout〔function〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"notif",
+				"notification"
+			],
+			[
+				"notifi",
+				"notifications"
+			],
+			[
+				"Not",
+				"NotificationUtils"
+			],
+			[
+				"findO",
+				"findByIdOrFail〔function〕"
+			],
+			[
+				"Task",
+				"TaskApiUtils"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"for",
+				"forOwn"
+			],
+			[
+				"opt",
+				"opts"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"Form",
+				"FormBuilder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "git di",
+		"selected_items":
+		[
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter settin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Diff Staged Files (Ignore Whitespace)"
+			],
+			[
+				"git commi",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git ",
+				"Git: Add..."
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git",
+			"git st",
+			"git status;",
+			"git status",
+			"sails generate bower",
+			"git config --global push.default simple",
+			"git remote add origin git@github.com:maslianok/motivarius.git",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/maslianok/www/redux/examples/todomvc"
+	],
+	"file_history":
+	[
+		"/Users/maslianok/www/oversing/public/_final/index.js",
+		"/Users/maslianok/www/oversing/public/_final/route/routesList.js",
+		"/Users/maslianok/www/oversing/public/_final/react/App.jsx",
+		"/Users/maslianok/www/oversing/node_modules/react-router/modules/Link.js",
+		"/Users/maslianok/www/oversing/node_modules/react-router/modules/PatternUtils.js",
+		"/Users/maslianok/www/oversing/node_modules/history/lib/createHashHistory.js",
+		"/Users/maslianok/www/oversing/node_modules/history/modules/useQueries.js",
+		"/Users/maslianok/www/oversing/node_modules/history/lib/createHistory.js",
+		"/Users/maslianok/www/oversing/node_modules/history/modules/createHistory.js",
+		"/Users/maslianok/www/oversing/node_modules/react-router/modules/History.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/App.jsx",
+		"/Users/maslianok/www/oversing/public/_final/routes.js",
+		"/Users/maslianok/www/oversing/public/_final/route/Task/TaskRoute.js",
+		"/Users/maslianok/www/oversing/public/_final/route/ProjectRoute.js",
+		"/Users/maslianok/www/oversing/public/_final/route/WorkspaceRoute.js",
+		"/Users/maslianok/www/oversing/public/_final/route/Task/TaskMoneyRoute.js",
+		"/Users/maslianok/www/oversing/public/_final/react/containers/LeftPanelContainer.jsx",
+		"/Users/maslianok/www/oversing/public/_final/react/containers/HeaderContainer.jsx",
+		"/Users/maslianok/www/oversing/public/_final/react/elements/LinkElement.jsx",
+		"/Volumes/TRANSCEND/launch.ini",
+		"/Users/maslianok/www/oversing/public/_final/flux/actions/layoutActions.js",
+		"/Users/maslianok/www/oversing/package.json",
+		"/Users/maslianok/www/oversing/src/Oversing/Library/MenuBuilder.php",
+		"/Users/maslianok/www/oversing/app/views/mainReact.php",
+		"/Users/maslianok/www/oversing/app/config/routes.php",
+		"/Users/maslianok/www/oversing/src/Oversing/Library/MenuBuilderProvider.php",
+		"/Users/maslianok/www/oversing/src/Oversing/Facades/MenuBuilder.php",
+		"/Users/maslianok/www/oversing/app/config/menu_.php",
+		"/Users/maslianok/www/oversing/app/routes.php",
+		"/Users/maslianok/www/oversing/app/config/menu.php",
+		"/Users/maslianok/www/oversing/public/nameless/extended/ReactRouter/ReactRouter.js",
+		"/Users/maslianok/www/oversing/public/nameless/lib/rbcRouter.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/actions/taskActions.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/reducers/tasksReducer.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/reducers/layoutReducer.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/actions/notificationActions.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/actions/slidingPageActions.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/actions/LayoutActions.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/SlidingPages.js",
+		"/Users/maslianok/www/oversing/public/_final/constants/global.js",
+		"/Users/maslianok/www/oversing/public/_final/constants/actionTypes.js",
+		"/Users/maslianok/www/oversing/public/nameless/utils/SlidingPageUtils.js",
+		"/Users/maslianok/www/oversing/public/nameless/index.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/reducers/slidingPagesReducer.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/Tasks.js",
+		"/Users/maslianok/www/oversing/public/_final/utils/slidingPageUtils.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/reducers/notificationsReducer.js",
+		"/Users/maslianok/www/oversing/public/nameless/constants/config.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/Notifications.js",
+		"/Users/maslianok/www/oversing/public/nameless/constants/ActionTypes.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/reducers/rootReducer.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/configureStore.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/middleware/promise.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/middleware/promise.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/middleware/logger.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/middleware/thunk.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/middleware/logger.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/middleware/index.js",
+		"/Users/maslianok/www/oversing/public/_final/flux/middleware/index.js",
+		"/Users/maslianok/www/oversing/public/nameless/css/global/global.scss",
+		"/Users/maslianok/www/oversing/app/controllers/TaskController.php",
+		"/Users/maslianok/www/oversing/public/nameless/react/components/SPListComponent.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/containers/SPContainer.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/pages/Task/TaskPage.jsx",
+		"/Users/maslianok/www/oversing/app/libraries/DataProcessor/TaskDataProcessor.php",
+		"/Users/maslianok/www/oversing/public/nameless/css/local/containers/spContainer.scss",
+		"/Users/maslianok/www/oversing/public/nameless/css/global/reactAnimation.scss",
+		"/Users/maslianok/www/oversing/public/nameless/flux/actions/SlidingPageActions.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/actions/TaskActions.js",
+		"/Users/maslianok/www/oversing/public/nameless/css/local/components/spListComponent.scss",
+		"/Users/maslianok/www/oversing/public/nameless/css/global/reset.scss",
+		"/Users/maslianok/www/oversing/public/nameless/css/global/icons.scss",
+		"/Users/maslianok/www/oversing/make-webpack-config.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/index.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/SlidingPageStore.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/actions/SlidingPageActionCreators.js",
+		"/Users/maslianok/www/oversing_test/public/nameless/utils/SlidingPageUtils.js",
+		"/Users/maslianok/www/oversing_test/public/nameless/utils/TaskUtils.js",
+		"/Users/maslianok/www/oversing/public/nameless/css/local/components/notificationListComponent.scss",
+		"/Users/maslianok/www/oversing/public/nameless/css/local/elements/snackbarElement.scss",
+		"/Users/maslianok/www/oversing/app/config/local/app.php",
+		"/Users/maslianok/www/oversing/app/config/local/database.php",
+		"/Users/maslianok/www/oversing/app/config/database.php",
+		"/Users/maslianok/www/oversing/.eslintrc",
+		"/Users/maslianok/www/oversing/public/nameless/react/elements/LinkElement.jsx",
+		"/Users/maslianok/www/oversing/node_modules/react-router/lib/Redirect.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/containers/LeftPanelContainer.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/route/Task/TaskRoute.js",
+		"/Users/maslianok/www/oversing/public/nameless/route/WorkspaceRoute.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/routes.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/route/ProjectRoute.js",
+		"/Users/maslianok/www/oversing/public/nameless/utils/URLUtils.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/pages/ProjectPage.jsx",
+		"/Users/maslianok/www/oversing/node_modules/react-router/lib/URLUtils.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/pages/Task/TaskActivityPage.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/route/Task/TaskActivityRoute.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/pages/Task/TaskMoneyPage.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/route/Task/TaskMoneyRoute.js",
+		"/Users/maslianok/www/oversing/public/nameless/route/TaskRoute.js",
+		"/Users/maslianok/www/oversing/node_modules/react-router/lib/Router.js",
+		"/Users/maslianok/www/oversing/node_modules/react-router/lib/umd/ReactRouter.js",
+		"/Users/maslianok/www/oversing/node_modules/react-router/lib/RouterContextMixin.js",
+		"/Users/maslianok/www/oversing/node_modules/react-router/lib/Link.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/pages/TaskPage.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/components/NotificationListComponent.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/flux/actions/NotificationActions.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/Layout.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/SlidingPage.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/Notification.js",
+		"/Users/maslianok/www/oversing/public/nameless/route/AppRoute.js",
+		"/Users/maslianok/www/oversing/public/nameless/react/elements/CssSpinnerElement.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/containers/ProfilePageContainer.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/pages/WorkspacePage.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/containers/HeaderContainer.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/elements/ToggleRightPanelElement.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/elements/ToggleLeftPanelElement.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/containers/SPEmptyContainer.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/elements/NotificationElement.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/react/elements/SnackbarElement.jsx",
+		"/Users/maslianok/www/oversing/public/nameless/flux/actions/TaskActionCreators.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/Task.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/constants/config.js",
+		"/Users/maslianok/www/oversing/public/nameless/lib/rbcRequest.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/middleware/thunk.js",
+		"/Users/maslianok/www/oversing/public/nameless/api/TaskApi.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/constants/ActionTypes.js",
+		"/Users/maslianok/www/oversing/public/nameless/flux/stores/TaskStore.js",
+		"/Users/maslianok/www/oversing/public/nameless/utils/TaskUtils.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/maslianok/www/oversing/node_modules/history",
+			"/Users/maslianok/www/oversing/node_modules/",
+			"/Users/maslianok/www/oversing/node_modules/history",
+			"/Users/maslianok/www/oversing/node_modules/react-router/modules",
+			"/Users/maslianok/www/oversing/",
+			"/Users/maslianok/www/oversing/public/nameless",
+			"/Users/maslianok/www/oversing/",
+			"/Users/maslianok/www/oversing/public/nameless",
+			"/Users/maslianok/www/oversing/node_modules/react-router/lib/",
+			"/Users/maslianok/www/oversing/node_modules/lib/",
+			"/Users/maslianok/www/oversing/node_modules/lib",
+			"/Users/maslianok/www/oversing/node_modules",
+			"/Users/maslianok/www/oversing/public/nameless",
+			"/Users/maslianok/www/oversing/node_modules/react-router",
+			"/Users/maslianok/www/oversing/public/nameless",
+			"/Users/maslianok/www/oversing/",
+			"/Users/maslianok/www/oversing/public/nameless/css",
+			"/Users/maslianok/www/oversing/",
+			"/Users/maslianok/www/oversing/public/nameless",
+			"/Users/maslianok/www/oversing/node_modules/alt",
+			"<project>",
+			"/Users/maslianok/www/oversing/node_modules/react-router/lib",
+			"/Users/maslianok/www/oversing/node_modules/react-router",
+			"/Users/maslianok/www/oversing/public/nameless",
+			"/Users/maslianok/www/oversing/node_modules/lodash",
+			"/Users/maslianok/www/oversing/public/nameless",
+			"/Users/maslianok/www/oversing/public",
+			"<project>",
+			"/Users/maslianok/www/flux/examples/flux-chat",
+			"/Users/maslianok/www/flux/examples/flux-chat/js",
+			"/Users/maslianok/www/flux/examples/flux-chat",
+			"/Users/maslianok/www/flux/examples/flux-chat/js",
+			"/Users/maslianok/www/flux/examples/flux-chat",
+			"/Users/maslianok/www/flummox",
+			"/Users/maslianok/www/flummox/docs",
+			"/Users/maslianok/www/flux/examples/flux-chat/js",
+			"/Users/maslianok/www/flux/examples/flux-todomvc/js",
+			"/Users/maslianok/www/motivarius",
+			"/Users/maslianok/www/motivarius/tasks",
+			"/Users/maslianok/www/motivarius"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"createHref",
+			"_PatternUtils",
+			"formatPattern",
+			"components",
+			"AppComponent",
+			"Config::get",
+			"\\Config",
+			"\\Config::get(",
+			"generateRoute",
+			"routesConfig",
+			"generateRoutesNewFormat",
+			">>>",
+			"generateRoutesNewFormat",
+			">>>>>",
+			"generateRoutes",
+			"rbcrouter",
+			"rbsrouter",
+			"TaskUtils",
+			"loadersByExtension",
+			"loaderByExtension",
+			"ReactRouter",
+			"HistoryLocation",
+			"qs",
+			"object-assign",
+			"setParentState",
+			"_getActiveSnapshot",
+			"_parseHistoryData",
+			"cssLoader",
+			"scss",
+			"_getActualSnapshot",
+			"_getIndexOfActiveHistoryItem",
+			"pages",
+			"state",
+			"_buildSnapshotItem",
+			"_getActualSnapshot",
+			"_parseHistoryData",
+			"setParent",
+			"onPopState",
+			"LocationActions",
+			"@mas",
+			"maslinok",
+			"addChangeListener",
+			"_listeners",
+			"notifyChange",
+			"_resetActiveHistoryPointer",
+			"_getActualSnapshot",
+			"popPage",
+			"state",
+			"Redirect",
+			"redirect",
+			"_parseHistoryData",
+			"_getActualSnapshot",
+			"_parseHistoryData",
+			"_buildSnapshotItem",
+			"_parseHistoryData",
+			"path",
+			"name",
+			"makePath",
+			"makeHref",
+			"transitionTo",
+			"name",
+			"getIn",
+			"_getPageHandler",
+			"length",
+			"pageOptions",
+			"';\n",
+			"babel",
+			"SlidingPageActionCreators",
+			"EntityActionCreators",
+			"_getName",
+			"constants",
+			"history",
+			"rbcRequest",
+			"createRandomKey",
+			"RequiredHistorySubclassMethods",
+			"replaceState",
+			"pushState",
+			"dispatch",
+			"routeChanged",
+			"onRouteChanged",
+			"routeChanged",
+			"styles",
+			"Component",
+			"Map",
+			"extract",
+			"  ",
+			"\"",
+			"loadersByExtension",
+			"utils/colors",
+			"asyncLoader",
+			"entry",
+			"modulesDirectories",
+			"alias",
+			"modulesDirectories",
+			"extensions",
+			"root",
+			"include",
+			"loaders",
+			"stats",
+			"excludeFromStats",
+			"TARGET",
+			"StatsPlugin",
+			"loadersByExtension",
+			"prerender",
+			"excludeFromStats",
+			"nameless",
+			"2992",
+			"vendors",
+			"git",
+			"RactiveExtended",
+			"Ractive",
+			"initInstance",
+			"Ractive",
+			"ractive",
+			"Ractive-events-tap",
+			"Ractive",
+			"new Ractive(",
+			"events-tap",
+			"viewMode",
+			"  ",
+			"#ffffff",
+			"spinner1",
+			"headerHeight",
+			"app",
+			"    ",
+			"  ",
+			"className",
+			"helpers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"s",
+			"	",
+			"'",
+			"\"",
+			"'",
+			"	",
+			"$loaderColor",
+			"	",
+			"		",
+			"	",
+			"spinner1__circle",
+			"spinner1__container3",
+			"spinner1__container2",
+			"spinner1__container1",
+			"spinner1__container",
+			"spinner1",
+			"	",
+			"  ",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 259.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "todomvc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mainrea",
+				"app/views/mainReact.php"
+			],
+			[
+				"menu_",
+				"app/config/menu_.php"
+			],
+			[
+				"routes",
+				"app/config/routes.php"
+			],
+			[
+				"menubui",
+				"src/Oversing/Library/MenuBuilderProvider.php"
+			],
+			[
+				"menubuilde",
+				"src/Oversing/Facades/MenuBuilder.php"
+			],
+			[
+				"menubuild",
+				"src/Oversing/Library/MenuBuilder.php"
+			],
+			[
+				"app/config/menu",
+				"app/config/menu.php"
+			],
+			[
+				"menubuilder",
+				"src/Oversing/Facades/MenuBuilder.php"
+			],
+			[
+				"menubuilderprovider",
+				"src/Oversing/Library/MenuBuilderProvider.php"
+			],
+			[
+				"taskcontro",
+				"app/controllers/TaskController.php"
+			],
+			[
+				"menu.php",
+				"app/config/menu_.php"
+			],
+			[
+				"taskdata",
+				"app/libraries/DataProcessor/TaskDataProcessor.php"
+			],
+			[
+				"menu.ph",
+				"app/config/menu.php"
+			],
+			[
+				"taskcontr",
+				"app/controllers/TaskController.php"
+			],
+			[
+				"spcontainer",
+				"public/nameless/css/local/containers/spContainer.scss"
+			],
+			[
+				"require-co",
+				"public/js/require-config.js"
+			],
+			[
+				"require",
+				"public/js/require-config.js"
+			],
+			[
+				"loader",
+				"node_modules/css-loader/lib/loader.js"
+			],
+			[
+				"taskstro",
+				"public/nameless/flux/stores/TaskStore.js"
+			],
+			[
+				"abstra",
+				"app/models/AbstractBaseModel.php"
+			],
+			[
+				"basecontr",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"invoicecon",
+				"app/controllers/InvoiceController.php"
+			],
+			[
+				"menuphp",
+				"app/config/menu_.php"
+			],
+			[
+				"pathutils",
+				"node_modules/react-router/lib/PathUtils.js"
+			],
+			[
+				"notificationlistcomponent",
+				"public/nameless/css/components/notificationListComponent.scss"
+			],
+			[
+				"notificatio",
+				"public/nameless/utils/NotificationUtils.js"
+			],
+			[
+				"menubuil",
+				"src/Oversing/Facades/MenuBuilder.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 766.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

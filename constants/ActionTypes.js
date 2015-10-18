@@ -1,0 +1,9 @@
+export const ADD_TASK = 'ADD_TASK';
+export const DELETE_TASK = 'DELETE_TASK';
+export const EDIT_TASK = 'EDIT_TASK';
+export const CHECK_TASK = 'CHECK_TASK';
+export const COMPLETE_TASK = 'COMPLETE_TASK';
+export const TOGGLE_ALL = 'TOGGLE_ALL';
+export const DELETE_SELECTED_TASKS = 'DELETE_SELECTED_TASKS';
+export const COMPLETE_SELECTED_TASKS = 'COMPLETE_SELECTED_TASKS';
+
